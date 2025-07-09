@@ -1,0 +1,2 @@
+This is a technosignature search conducted on data from the Meerkat Telescope looking at K2-18B, an earth-like exo-planet that has been theorized to have some biosignatures such as water vapor, methane, and carbon dioxide. 
+The SETICORE pipeline was used to find hits in the data for high frequency drifting signals and these hits were then visualized through waterfall plots to further investigate the likelihood of it being a technosignature instead of Rradio frequency interference. 
